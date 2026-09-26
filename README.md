@@ -1,4 +1,4 @@
-# AeroGuard EdgeAI — Final Proje
+# AeroGuard EdgeAI 
 
 AeroGuard; RGB kamera görüntüsü, hareketten türetilen yardımcı termal/risk kanalı, özel sensör-füzyon autoencoder'ı ve YOLOv8 nesne tespitini birleştirerek kritik bir koruma bölgesindeki insan, araç ve diğer hareketleri gerçek zamanlı analiz eden EdgeAI prototipidir.
 
